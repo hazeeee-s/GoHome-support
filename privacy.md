@@ -47,7 +47,7 @@ title: Go Home プライバシーポリシー / Privacy Policy
 
 ## 5. 広告
 
-本アプリは、Google LLC の広告配信サービス「Google AdMob」を使って広告を表示します。広告が出るのは、ステージを何回かクリアした後の全画面の広告だけです。ステージで死んだときには出ません。「広告を削除」を購入すると出なくなります。
+本アプリは、Google LLC の広告配信サービス「Google AdMob」を使って広告を表示します。広告が出るのは、ステージを何回かクリアした後（前の広告から少なくとも3分あけて）の全画面の広告だけです。ステージで死んだときには出ません。「広告を削除」を購入すると出なくなります。
 
 Google は、広告の配信と効果の測定のため、端末の広告識別子（IDFA。利用者が許可した場合のみ）、おおよその位置（IPアドレスから推定）、端末の情報、広告の表示・タップの記録などを集めることがあります。これらの扱いは Google のポリシーに従います。
 
@@ -141,7 +141,7 @@ You can buy "Remove Ads", a one-time purchase that turns ads off permanently. Pu
 
 ## 5. Advertising
 
-The App shows ads using Google AdMob, a service of Google LLC. Ads appear only as full-screen ads after clearing several stages, never when you die. Buying "Remove Ads" turns them off.
+The App shows ads using Google AdMob, a service of Google LLC. Ads appear only as full-screen ads after clearing several stages (at least 3 minutes apart), never when you die. Buying "Remove Ads" turns them off.
 
 To serve and measure ads, Google may collect your device's advertising identifier (IDFA, only if you allow it), approximate location (from your IP address), device information, and ad views and taps. This is handled under Google's policies:
 
